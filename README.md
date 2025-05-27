@@ -11,11 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 📫 How to reach me **abhay.work.02@gmail.com**
-
-<a href = 'https://portfolio-one-phi-49.vercel.app/' target = "_blank">My PortFolio</a>
+*   🌍  I'm based in Delhi, India
+*   🖥️  See my portfolio at [Portfolio](https://portfolio-one-phi-49.vercel.app/)
+*   ✉️  You can contact me at [abhay.work.02@gmail.com](mailto:abhay.wor@gmail.com)
+*   🚀  I'm currently completing [The Odin Project](http:///www.theodinproject.com)
+*   🤝  I'm open to collaborating on Full Stack Web Dev Projects
+*   ⚡  When I'm not coding, you can find me gaming or listening to music.
+*   
 <p align="left">
 </p>
 
