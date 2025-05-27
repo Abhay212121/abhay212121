@@ -17,7 +17,7 @@
 *   🚀  I'm currently completing [The Odin Project](http:///www.theodinproject.com)
 *   🤝  I'm open to collaborating on Full Stack Web Dev Projects
 *   ⚡  When I'm not coding, you can find me gaming or listening to music.
-*   
+  
 <p align="left">
 </p>
 
